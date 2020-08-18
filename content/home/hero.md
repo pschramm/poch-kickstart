@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "New Book of Essays"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+hero_media = "poch3-small.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -37,22 +37,19 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+  url = "https://booklink"
+  label = "Buy the new Book"
   icon_pack = "fas"
-  icon = "download"
+  icon = "buy"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  url = "https://booklink"
+  label = "Read a Sample  "
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  label = 'cta_notes here'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**The Best new book of essays**
 
-Build **Anything** with Widgets
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
