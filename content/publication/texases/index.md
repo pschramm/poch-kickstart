@@ -1,12 +1,12 @@
 ---
-title: "Gracious"
+title: "TEXASES"
 authors:
 - admin
 date: "2020-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,16 +25,16 @@ summary: "In Texases, his fifth collection of poems, John Poch offers readers a 
 
 # tags:
 # - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Buy on Amazon
-  url: https://www.amazon.com/Gracious-Poems-21st-Century-South/dp/1682830640
+  url: https://www.amazon.com/Texases-John-Poch/dp/1602260222
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Gracious'
+  caption: 'TEXASES'
   focal_point: ""
   preview_only: false
 
