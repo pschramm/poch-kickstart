@@ -1,5 +1,5 @@
 ---
-title: "Poems"
+title: "Fix Quiet"
 authors:
 - admin
 date: "2000-07-01T00:00:00Z"
@@ -28,14 +28,14 @@ summary: "Winner of The New Criterion Poetry Prize"
 featured: false
 
 links:
-- name: Custom Link
+- name: Buy on Amazon
   url: https://www.amazon.com/Gracious-Poems-21st-Century-South/dp/1682830640
 url_pdf: https://www.amazon.com/Gracious-Poems-21st-Century-South/dp/1682830640
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Poems'
+  caption: 'Fix Quiet'
   focal_point: ""
   preview_only: false
 

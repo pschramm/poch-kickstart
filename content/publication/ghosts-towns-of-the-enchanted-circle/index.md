@@ -28,14 +28,14 @@ summary: "Vanderbilt University Special Collections, Southern Civilization Colle
 featured: false
 
 links:
-- name: Custom Link
-  url: https://www.amazon.com/Gracious-Poems-21st-Century-South/dp/1682830640
+- name: Buy on the Vanderbilt Site
+  url: https://gallery.library.vanderbilt.edu/items/show/1258
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Poems'
+  caption: 'Ghost Towns of the Enchanted Circle'
   focal_point: ""
   preview_only: false
 
