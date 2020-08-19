@@ -16,13 +16,16 @@ authors:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: "mailto:john.poch@ttu.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jpoch
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/pochphoto
+  - icon: facebook
+    icon_pack: fab
+    link: https://facebook.com/john.poch
 # education:
 #   courses:
 #     - course: PhD in Artificial Intelligence 

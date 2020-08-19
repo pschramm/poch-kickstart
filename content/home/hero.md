@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "New Book of Essays"
+title = "New book comign in 2020"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "poch3-small.jpg"
@@ -38,7 +38,7 @@ hero_media = "poch3-small.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://booklink"
-  label = "Buy the new Book"
+  label = "Buy the new book on Amazon now"
   icon_pack = "fas"
   icon = "buy"
   
@@ -48,8 +48,8 @@ hero_media = "poch3-small.jpg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'cta_notes here'
+  label = 'These are notes; We Could use for Reviews?  An optional note to show underneath the links.'
 +++
 
-**The Best new book of essays**
+**Awesome new books! This is a new book of essays**
 
