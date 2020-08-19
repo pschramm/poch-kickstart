@@ -28,7 +28,7 @@ summary: Short Summary for Poems
 featured: false
 
 links:
-- name: Custom Link
+- name: Buy on Amazon
   url: https://www.amazon.com/Gracious-Poems-21st-Century-South/dp/1682830640
 
 # Featured image
